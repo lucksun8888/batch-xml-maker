@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<gameList> 
+  <game> 
+    <path>./Metroid Prime.ISO</path>  
+    <name>银河战士</name>  
+    <desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>  
+    <image>./images/Metroid Prime.png</image>  
+    <video>./videos/Metroid Prime.mp4</video>  
+    <marquee>./marquee/Metroid Prime.png</marquee>  
+    <thumbnail>./images/Metroid Prime.png</thumbnail>  
+    <fanart>./images/Metroid Prime.jpg</fanart>  
+    <manual>./manuals/Metroid Prime-manual.pdf</manual>  
+    <rating>0.8</rating>  
+    <releasedate>20021119T000000</releasedate>  
+    <developer>Retro Studios, Inc.</developer>  
+    <publisher>Nintendo</publisher>  
+    <genre>A??o</genre>  
+    <lang>en</lang> 
+  </game>  
+  <game> 
+    <path>./Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA).iso</path>  
+    <name>Capcom vs.SNK 2 EO:百万富翁大战2001</name>  
+    <desc>Capcom VS SNK 2 is composed almost entirely of classic Street Fighter and SNK fighting techniques, which means lots of charge moves, half and quarter circles, and super moves. What's new to the game are the different "grooves," or fighting styles. Although the "Capcom" and "SNK" grooves were introduced in a previous game, Capcom VS SNK 2 takes this concept a step further by introducing six different grooves: C, A, P, S, N, and K. Depending on which groove you choose, the type and number of fighting techniques you have available changes, with half of the grooves leaning towards traditional Capcom fighting and the other half leaning towards SNK-styled battle. The difference between the two fighting styles is mainly the availability of certain non-lethal moves such as air blocks, dodging, and rolling, with each groove having its own balanced mixture of the said moves.</desc>  
+    <image>./images/Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA).png</image>  
+    <video>./videos/Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA).mp4</video>  
+    <marquee>./marquee/Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA).png</marquee>  
+    <thumbnail>./images/Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA).png</thumbnail>  
+    <rating>0.75</rating>  
+    <releasedate>20020925T000000</releasedate>  
+    <developer>Capcom</developer>  
+    <publisher>Capcom</publisher>  
+    <genre>Luta</genre>  
+    <players>2</players>  
+    <lang>en</lang>  
+    <region>us</region> 
+  </game>  
+  <game> 
+    <path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).iso</path>  
+    <name>忍者神龟2：战斗关系</name>  
+    <desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>  
+    <image>./images/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</image>  
+    <video>./videos/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).mp4</video>  
+    <marquee>./marquee/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</marquee>  
+    <thumbnail>./images/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</thumbnail>  
+    <rating>0.6</rating>  
+    <releasedate>20050310T000000</releasedate>  
+    <developer>Konami</developer>  
+    <publisher>Konami</publisher>  
+    <genre>Briga de rua</genre>  
+    <players>2-4</players>  
+    <lang>en</lang>  
+    <region>us</region> 
+  </game>  
+  <game> 
+    <path>./Teenage Mutant Ninja Turtles.iso</path>  
+    <name>忍者神龟</name>  
+    <desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell! The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick.</desc>  
+    <image>./images/Teenage Mutant Ninja Turtles.png</image>  
+    <video>./videos/Teenage Mutant Ninja Turtles.mp4</video>  
+    <marquee>./marquee/Teenage Mutant Ninja Turtles.png</marquee>  
+    <thumbnail>./images/Teenage Mutant Ninja Turtles.png</thumbnail>  
+    <fanart>./images/Teenage Mutant Ninja Turtles.jpg</fanart>  
+    <rating>0.75</rating>  
+    <developer>Konami</developer>  
+    <publisher>Konami</publisher>  
+    <genre>A??o</genre>  
+    <players>2</players>  
+    <lang>en</lang> 
+  </game>  
+  <game> 
+    <path>./Need for Speed - Carbon.iso</path>  
+    <name>对速度碳的需求</name>  
+    <desc>Need for Speed: Carbon delivers the next generation of adrenaline-filled street racing as players face the ultimate test of driving skill on treacherous canyon roads. What starts in the city is settled in the canyons as Need for Speed Carbon immerses you into the world's most dangerous and adrenaline-filled form of street racing. You and your crew must race in an all-out war for the city, risking everything to take over your rivals' neighborhoods one block at a time. As the police turn up the heat, the battle ultimately shifts to Carbon Canyon, where territories and reputations can be lost on every perilous curve. Need for Speed Carbon delivers the next generation of customization giving you the power to design and tweak your crew's cars in every way using the ground-breaking new Autosculpt technology. Represent your car class, your crew, and your turf in Need for Speed Carbon, the next revolution in racing games.</desc>  
+    <image>./images/Need for Speed - Carbon.png</image>  
+    <video>./videos/Need for Speed - Carbon.mp4</video>  
+    <marquee>./marquee/Need for Speed - Carbon.png</marquee>  
+    <thumbnail>./images/Need for Speed - Carbon.png</thumbnail>  
+    <fanart>./images/Need for Speed - Carbon.jpg</fanart>  
+    <rating>0.85</rating>  
+    <releasedate>20061031T000000</releasedate>  
+    <developer>Electronic Arts</developer>  
+    <genre>Corrida, Pilotagem</genre>  
+    <players>2</players>  
+    <lang>en</lang> 
+  </game>  
+  <game> 
+    <path>./Need for Speed - Most Wanted (USA).iso</path>  
+    <name>对速度的需求：通缉犯</name>  
+    <desc>The new speedster in EA's successful series combines the tuner customization of Need for Speed Underground with an expanded take on the police chases of the Need for Speed: Hot Pursuit series. The game will feature a Rap Sheet option that works hand in hand with a player's street reputation as they move up from the "Black List" to the A-List. Users will also be able to go head-to-head with their opponents while simultaneously trying to avoid more than six different police cars at once through a dynamically changing open-ended world. Get your car peaked for outrunning the cops by customizing your muscle cars, supercars, tuners, and sports cars.</desc>  
+    <image>./images/Need for Speed - Most Wanted (USA).png</image>  
+    <video>./videos/Need for Speed - Most Wanted (USA).mp4</video>  
+    <marquee>./marquee/Need for Speed - Most Wanted (USA).png</marquee>  
+    <thumbnail>./images/Need for Speed - Most Wanted (USA).png</thumbnail>  
+    <fanart>./images/Need for Speed - Most Wanted (USA).jpg</fanart>  
+    <rating>0.85</rating>  
+    <releasedate>20051115T000000</releasedate>  
+    <developer>Electronic Arts</developer>  
+    <publisher>Electronic Arts</publisher>  
+    <genre>Corrida, Pilotagem</genre>  
+    <players>2</players>  
+    <lang>en</lang>  
+    <region>us</region> 
+  </game> 
+</gameList>

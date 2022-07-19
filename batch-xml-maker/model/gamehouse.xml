@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<gameList> 
+  <game> 
+    <path>./Collapse 2 ReLapse.plus</path>  
+    <name>崩溃2复发</name>  
+    <image>./images/Collapse 2 ReLapse.png</image>  
+    <video>./videos/Collapse 2 ReLapse.mp4</video>  
+    <playcount>3</playcount>  
+    <lastplayed>20200719T214031</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Air Strike 3D.plus</path>  
+    <name>空袭3D</name>  
+    <image>./images/Air Strike 3D.png</image>  
+    <video>./videos/Air Strike 3D.mp4</video>  
+    <playcount>2</playcount>  
+    <lastplayed>20200719T213101</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Bounce Out.plus</path>  
+    <name>跳出</name>  
+    <image>./images/Bounce Out.png</image>  
+    <video>./videos/Bounce Out.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213516</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Collapse 3 Crunch.plus</path>  
+    <name>崩溃3嘎吱</name>  
+    <image>./images/Collapse 3 Crunch.png</image>  
+    <video>./videos/Collapse 3 Crunch.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214108</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Chainz.plus</path>  
+    <name>链式反应</name>  
+    <image>./images/Chainz.png</image>  
+    <video>./videos/Chainz.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213829</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Alien Sky.plus</path>  
+    <name>炫丽小蜜蜂</name>  
+    <image>./images/Alien Sky.png</image>  
+    <video>./videos/Alien Sky.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213203</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Atomaders.plus</path>  
+    <name>核战小蜜蜂</name>  
+    <image>./images/Atomaders.png</image>  
+    <video>./videos/Atomaders.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213345</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Ancient Tripeaks.plus</path>  
+    <name>古代三峰</name>  
+    <image>./images/Ancient Tripeaks.png</image>  
+    <video>./videos/Ancient Tripeaks.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213237</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Bounce Out Blitz.plus</path>  
+    <name>跳出闪电战</name>  
+    <image>./images/Bounce Out Blitz.png</image>  
+    <video>./videos/Bounce Out Blitz.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213627</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Collapse 1.plus</path>  
+    <name>崩溃1</name>  
+    <image>./images/Collapse 1.png</image>  
+    <video>./videos/Collapse 1.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213905</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Astrobatics.plus</path>  
+    <name>天体特技</name>  
+    <image>./images/Astrobatics.png</image>  
+    <video>./videos/Astrobatics.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213304</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Candy Cruncher.plus</path>  
+    <name>糖果派</name>  
+    <image>./images/Candy Cruncher.png</image>  
+    <video>./videos/Candy Cruncher.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T213716</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Magic Inlay.plus</path>  
+    <name>魔力镶嵌</name>  
+    <image>./images/Magic Inlay.png</image>  
+    <video>./videos/Magic Inlay.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215258</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Combo Chaos.plus</path>  
+    <name>记忆大考验</name>  
+    <image>./images/Combo Chaos.png</image>  
+    <video>./videos/Combo Chaos.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214202</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Jewel Quest.plus</path>  
+    <name>宝石探秘</name>  
+    <image>./images/Jewel Quest.png</image>  
+    <video>./videos/Jewel Quest.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214908</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Mahjong.plus</path>  
+    <name>超级麻将</name>  
+    <image>./images/Mahjong.png</image>  
+    <video>./videos/Mahjong.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215339</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Gutterball.plus</path>  
+    <name>保龄球</name>  
+    <image>./images/Gutterball.png</image>  
+    <video>./videos/Gutterball.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214538</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Pin High Golf.plus</path>  
+    <name>高脚高尔夫</name>  
+    <image>./images/Pin High Golf.png</image>  
+    <video>./videos/Pin High Golf.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215701</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Hello.plus</path>  
+    <name>你好</name>  
+    <image>./images/Hello.png</image>  
+    <video>./videos/Hello.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214755</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Letter Linker.plus</path>  
+    <name>字母链接器</name>  
+    <image>./images/Letter Linker.png</image>  
+    <video>./videos/Letter Linker.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215112</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Inspector Parker.plus</path>  
+    <name>帕克探长</name>  
+    <image>./images/Inspector Parker.png</image>  
+    <video>./videos/Inspector Parker.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214833</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Magic Ball.plus</path>  
+    <name>魔球</name>  
+    <image>./images/Magic Ball.png</image>  
+    <video>./videos/Magic Ball.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215233</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Nickelodeon Jigsaw.plus</path>  
+    <name>镍币拼图</name>  
+    <image>./images/Nickelodeon Jigsaw.png</image>  
+    <video>./videos/Nickelodeon Jigsaw.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215415</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Mad Caps.plus</path>  
+    <name>疯狂瓶盖</name>  
+    <image>./images/Mad Caps.png</image>  
+    <video>./videos/Mad Caps.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215144</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Fruit Frolic.plus</path>  
+    <name>水果消除</name>  
+    <image>./images/Fruit Frolic.png</image>  
+    <video>./videos/Fruit Frolic.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214358</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Jigsaw.plus</path>  
+    <name>拼图</name>  
+    <image>./images/Jigsaw.png</image>  
+    <video>./videos/Jigsaw.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214948</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Flip Words.plus</path>  
+    <name>翻转单词</name>  
+    <image>./images/Flip Words.png</image>  
+    <video>./videos/Flip Words.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214314</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Hamsterball.plus</path>  
+    <name>仓鼠球</name>  
+    <image>./images/Hamsterball.png</image>  
+    <video>./videos/Hamsterball.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214709</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Lemonade Tycoon.plus</path>  
+    <name>柠檬水大亨</name>  
+    <image>./images/Lemonade Tycoon.png</image>  
+    <video>./videos/Lemonade Tycoon.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215032</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Gem Drop.plus</path>  
+    <name>宝石坠落</name>  
+    <image>./images/Gem Drop.png</image>  
+    <video>./videos/Gem Drop.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T214455</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Puzzle Inlay.plus</path>  
+    <name>宝石拼图</name>  
+    <image>./images/Puzzle Inlay.png</image>  
+    <video>./videos/Puzzle Inlay.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215754</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Scrabble.plus</path>  
+    <name>乱摸</name>  
+    <image>./images/Scrabble.png</image>  
+    <video>./videos/Scrabble.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220131</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Ricochet Lost Worlds.plus</path>  
+    <name>跳弹迷失世界</name>  
+    <image>./images/Ricochet Lost Worlds.png</image>  
+    <video>./videos/Ricochet Lost Worlds.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215959</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Slingo Deluxe.plus</path>  
+    <name>斯林戈豪华酒店</name>  
+    <image>./images/Slingo Deluxe.png</image>  
+    <video>./videos/Slingo Deluxe.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220247</lastplayed> 
+  </game>  
+  <game> 
+    <path>./QBeez.plus</path>  
+    <name>QBz</name>  
+    <image>./images/QBeez.png</image>  
+    <video>./videos/QBeez.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215921</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Ricochet Xtreme.plus</path>  
+    <name>跳弹极限</name>  
+    <image>./images/Ricochet Xtreme.png</image>  
+    <video>./videos/Ricochet Xtreme.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220035</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Shape Shifter.plus</path>  
+    <name>移动拼图</name>  
+    <image>./images/Shape Shifter.png</image>  
+    <video>./videos/Shape Shifter.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220201</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Puzzle Express.plus</path>  
+    <name>拼图快车</name>  
+    <image>./images/Puzzle Express.png</image>  
+    <video>./videos/Puzzle Express.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T215729</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Solitaire 3.plus</path>  
+    <name>接龙卷3</name>  
+    <image>./images/Solitaire 3.png</image>  
+    <video>./videos/Solitaire 3.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220617</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Pile Up.plus</path>  
+    <name>超级堆积</name>  
+    <image>./images/Super Pile Up.png</image>  
+    <video>./videos/Super Pile Up.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221030</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super PopNDrop.plus</path>  
+    <name>超级爆竹</name>  
+    <image>./images/Super PopNDrop.png</image>  
+    <video>./videos/Super PopNDrop.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221149</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Pool.plus</path>  
+    <name>超级游泳池</name>  
+    <image>./images/Super Pool.png</image>  
+    <video>./videos/Super Pool.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221107</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Slots.plus</path>  
+    <name>槽</name>  
+    <image>./images/Slots.png</image>  
+    <video>./videos/Slots.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220401</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Glinx.plus</path>  
+    <name>超级胶质</name>  
+    <image>./images/Super Glinx.png</image>  
+    <video>./videos/Super Glinx.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220912</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Blackjack.plus</path>  
+    <name>超级21点</name>  
+    <image>./images/Super Blackjack.png</image>  
+    <video>./videos/Super Blackjack.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220831</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Sponge Bob Collapse.plus</path>  
+    <name>皱缩海绵宝宝</name>  
+    <image>./images/Sponge Bob Collapse.png</image>  
+    <video>./videos/Sponge Bob Collapse.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220738</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Solitaire 1.plus</path>  
+    <name>接龙卷1</name>  
+    <image>./images/Solitaire 1.png</image>  
+    <video>./videos/Solitaire 1.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220507</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Spelvin.plus</path>  
+    <name>斯佩尔文</name>  
+    <image>./images/Spelvin.png</image>  
+    <video>./videos/Spelvin.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220651</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Solitaire 2.plus</path>  
+    <name>接龙卷2</name>  
+    <image>./images/Solitaire 2.png</image>  
+    <video>./videos/Solitaire 2.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220543</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Nisqually.plus</path>  
+    <name>超尼斯奎利</name>  
+    <image>./images/Super Nisqually.png</image>  
+    <video>./videos/Super Nisqually.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T220954</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Word Jolt.plus</path>  
+    <name>文字震动</name>  
+    <image>./images/Word Jolt.png</image>  
+    <video>./videos/Word Jolt.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221838</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Turtle Bay.plus</path>  
+    <name>海龟湾</name>  
+    <image>./images/Turtle Bay.png</image>  
+    <video>./videos/Turtle Bay.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221429</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Tap a Jam.plus</path>  
+    <name>键盘飞舞</name>  
+    <image>./images/Tap a Jam.png</image>  
+    <video>./videos/Tap a Jam.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221300</lastplayed> 
+  </game>  
+  <game> 
+    <path>./WHAT word.plus</path>  
+    <name>什么词</name>  
+    <image>./images//WHAT word.png</image>  
+    <video>./videos/WHAT word.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221731</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Super Rumble Cube.plus</path>  
+    <name>超级隆隆立方体</name>  
+    <image>./images/Super Rumble Cube.png</image>  
+    <video>./videos/Super Rumble Cube.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221226</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Text Twist.plus</path>  
+    <name>文本扭曲</name>  
+    <image>./images/Text Twist.png</image>  
+    <video>./videos/Text Twist.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221404</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Wild Wild Words.plus</path>  
+    <name>胡言乱语</name>  
+    <image>./images/Wild Wild Words.png</image>  
+    <video>./videos/Wild Wild Words.mp4</video>  
+    <playcount>2</playcount>  
+    <lastplayed>20200719T221811</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Ten Pin Bowling.plus</path>  
+    <name>十针保龄球</name>  
+    <image>./images/Ten Pin Bowling.png</image>  
+    <video>./videos/Ten Pin Bowling.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221330</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Varmintz.plus</path>  
+    <name>瓦尔明茨</name>  
+    <image>./images/Varmintz.png</image>  
+    <video>./videos/Varmintz.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221619</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Ultimate Dominoes.plus</path>  
+    <name>终极多米诺骨牌</name>  
+    <image>./images/Ultimate Dominoes.png</image>  
+    <video>./videos/Ultimate Dominoes.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221548</lastplayed> 
+  </game>  
+  <game> 
+    <path>./Walls of Jericho.plus</path>  
+    <name>杰里科长城</name>  
+    <image>./images/Walls of Jericho.png</image>  
+    <video>./videos/Walls of Jericho.mp4</video>  
+    <playcount>1</playcount>  
+    <lastplayed>20200719T221653</lastplayed> 
+  </game> 
+</gameList>

@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>PC Windows</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Cuphead.plus</path>
+		<name>Cuphead</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./images/Cuphead.png</image>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<video>./videos/Cuphead.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Street Fighter X Tekken.plus</path>
+		<name>Street Fighter X Tekken</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./images/Street Fighter X Tekken.png</image>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<video>./videos/Street Fighter X Tekken.mp4</video>
+	</game>
+	<game>
+		<path>./The King Of Fighters XIII.plus</path>
+		<name>The King Of Fighters XIII</name>
+		<image>./images/The King Of Fighters XIII.png</image>
+		<video>./videos/The King Of Fighters XIII.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20200502T133343</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania Lords of Shadow Mirror of Fate HD.plus</path>
+		<name>Castlevania Lords of Shadow Mirror of Fate HD</name>
+		<image>./images/Castlevania Lords of Shadow Mirror of Fate HD.png</image>
+		<video>./videos/Castlevania Lords of Shadow Mirror of Fate HD.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20200502T134639</lastplayed>
+	</game>
+	<game>
+		<path>./Hurrican.plus</path>
+		<name>Hurrican</name>
+		<image>./images/Hurrican.png</image>
+		<video>./videos/Hurrican.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>3</playcount>
+		<lastplayed>20200502T135643</lastplayed>
+	</game>
+	<game>
+		<path>./PAC-MAN Championship Edition DX+.plus</path>
+		<name>PAC-MAN Championship Edition DX+</name>
+		<image>./images/PAC-MAN Championship Edition DX+.png</image>
+		<video>./videos/PAC-MAN Championship Edition DX+.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20200502T142720</lastplayed>
+	</game>
+	<game>
+		<path>./Steam World Dig 2.plus</path>
+		<name>Steam World Dig 2</name>
+		<image>./images/Steam World Dig 2.png</image>
+		<video>./videos/Steam World Dig 2.mp4</video>
+		<playcount>1</playcount>
+		<lastplayed>20200511T204655</lastplayed>
+	</game>
+	<game>
+		<path>./Horizon Chase Turbo.plus</path>
+		<name>Horizon Chase Turbo</name>
+		<image>./images/Horizon Chase Turbo.png</image>
+		<video>./videos/Horizon Chase Turbo.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20190618T181435</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic Mania.plus</path>
+		<name>Sonic Mania</name>
+		<image>./images/Sonic Mania.png</image>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<video>./videos/Sonic Mania.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20190618T181435</lastplayed>
+	</game>
+	<game>
+		<path>./Blazing-Chrome.plus</path>
+		<name>Blazing Chrome</name>
+		<image>./images/Blazing-Chrome.png</image>
+		<video>./videos/Blazing-Chrome.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20190929T193358</lastplayed>
+	</game>
+	<game>
+		<path>./Samurai-Spirit-2019.plus</path>
+		<name>Samurai Spirit 2019</name>
+		<image>./images/Samurai-Spirit-2019.png</image>
+		<video>./videos/Samurai-Spirit-2019.mp4</video>
+		<playcount>2</playcount>
+		<lastplayed>20191001T023642</lastplayed>
+	</game>
+	<game>
+		<path>./Plants vs. Zombies.plus</path>
+		<name>Plants vs. Zombies</name>
+		<image>./images/Plants vs. Zombies.png</image>
+		<video>./videos/Plants vs. Zombies.mp4</video>
+		<playcount>2</playcount>
+		<lastplayed>20191001T023642</lastplayed>
+	</game>
+	<game>
+		<path>./KOF-Memorial-Special-Edition-2019.plus</path>
+		<name>KOF Memorial Special Edition 2019</name>
+		<image>./images/KOF-Memorial-Special-Edition-2019.png</image>
+		<video>./videos/KOF-Memorial-Special-Edition-2019.mp4</video>
+		<playcount>2</playcount>
+		<lastplayed>20191001T023642</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem - Manhattan Project.plus</path>
+		<name>Duke Nukem - Manhattan Project</name>
+		<image>./images/Duke Nukem - Manhattan Project.png</image>
+		<video>./videos/Duke Nukem - Manhattan Project.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>5</playcount>
+		<lastplayed>20200521T231916</lastplayed>
+	</game>
+	<game>
+		<path>./Stranger Things 3 The Game.plus</path>
+		<name>Stranger Things 3 The Game</name>
+		<image>./images/Stranger Things 3 The Game.png</image>
+		<video>./videos/Stranger Things 3 The Game.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>5</playcount>
+		<lastplayed>20200521T231916</lastplayed>
+	</game>
+	<game>
+		<path>./Axiom Verge.plus</path>
+		<name>Axiom Verge</name>
+		<image>./images/Axiom Verge.png</image>
+		<video>./videos/Axiom Verge.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>5</playcount>
+		<lastplayed>20200521T231916</lastplayed>
+	</game>
+	<game>
+		<path>./Bloodrayne/bin.plus</path>
+		<name>Bloodrayne</name>
+		<image>./images/Bloodrayne.png</image>
+		<video>./videos/Bloodrayne.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+	</game>
+	<game>
+		<path>./The King of Fighters 2002 Unlimited.plus</path>
+		<name>The King of Fighters 2002 Unlimited</name>
+		<image>./images/The King of Fighters 2002 Unlimited.png</image>
+		<video>./videos/The King of Fighters 2002 Unlimited.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20200617T170601</lastplayed>
+	</game>
+	<game>
+		<path>./Castle of Illusion.plus</path>
+		<name>Castle of Illusion</name>
+		<image>./images/Castle of Illusion.png</image>
+		<video>./videos/Castle of Illusion.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>6</playcount>
+		<lastplayed>20200617T165945</lastplayed>
+	</game>
+	<game>
+		<path>./Beach Soccer.plus</path>
+		<name>Beach Soccer</name>
+		<image>./images/Beach Soccer.png</image>
+		<video>./videos/Beach Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Fifa 99.plus</path>
+		<name>Fifa 99</name>
+		<image>./images/Fifa 99.png</image>
+		<video>./videos/Fifa 99.mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Tennis 1.plus</path>
+		<name>Virtua Tennis 1</name>
+		<image>./images/Virtua Tennis 1.png</image>
+		<video>./videos/Virtua Tennis 1.mp4</video>
+	</game>
+	<game>
+		<path>./Aquadelic.plus</path>
+		<name>Aquadelic</name>
+		<image>./images/Aquadelic.png</image>
+		<video>./videos/Aquadelic.mp4</video>
+		<playcount>1</playcount>
+		<lastplayed>20200711T235347</lastplayed>
+	</game>
+	<game>
+		<path>./Bus Driver.plus</path>
+		<name>Bus Driver</name>
+		<image>./images/Bus Driver.png</image>
+		<video>./videos/Bus Driver.mp4</video>
+		<playcount>1</playcount>
+		<lastplayed>20200712T145147</lastplayed>
+	</game>
+	<game>
+		<path>./Ultra Street Fighter IV.plus</path>
+		<name>Ultra Street Fighter IV</name>
+		<image>./images/Ultra Street Fighter IV.png</image>
+		<video>./videos/Ultra Street Fighter IV.mp4</video>
+		<thumbnail>./wheel/xx.png</thumbnail>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>4</playcount>
+		<lastplayed>20200830T174602</lastplayed>
+	</game>
+</gameList>
